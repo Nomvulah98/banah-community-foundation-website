@@ -49,3 +49,4 @@
     @media(max-width:760px){.contact-info{padding:24px}}
     @media(max-width:760px){.hero .arrow{z-index:1}}
     html{touch-action:manipulation}
+    .hero-inner,.hero-inner *,.principle-card,.principle-card *{touch-action:manipulation}
