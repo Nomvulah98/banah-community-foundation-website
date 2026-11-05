@@ -1,0 +1,12 @@
+{
+  "name": "banah-site-rebuild",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dependency-free responsive website for Banah Community Foundation",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
